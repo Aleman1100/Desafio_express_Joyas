@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "ejercicio-lectura",
+  "version": "1.0.0",
+  "main": "guitarras.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
